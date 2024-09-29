@@ -2,7 +2,7 @@
 
 ---
 
-# YouTube Sentiment Analysis Project
+# YouTube Channels Data Analysis Project
 
 ## Overview
 This project analyzes multiple YouTube channels to provide insights into their performance based on key metrics such as **subscribers, views, likes, and comments**. The analysis is done using **Python** in a **Jupyter Notebook** environment, employing the **YouTube Data API v3** and web scraping techniques for data extraction. The goal of this project is to uncover patterns and sentiment trends across various YouTube channels, followed by an in-depth analysis of one particular channel, evaluating its performance based on **monthly uploads** of videos.
